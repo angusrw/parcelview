@@ -1,6 +1,14 @@
 # ParcelView
 
-A system for managing post
+A post management system developed for University of Bristol COMS20805 Software Product Engineering project.
+
+Developed in collaboration with [Ghyston](https://www.ghyston.com/).
+
+* Author: Angus Redlarski Williams
+* Github: @angusrw
+* Email: angusrwilliams@gmail.com
+
+---
 
 ## Development setup
 
