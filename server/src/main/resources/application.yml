@@ -1,0 +1,19 @@
+flyway:
+  clean-on-validation-error: true
+
+logging:
+  level:
+    org.hibernate.SQL: debug
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/parcelview
+    username: postgres
+    password: postgres
+    platform: POSTGRESQL
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    properties:
+      hibernate:
+        show_sql: true
+        format_sql: true
